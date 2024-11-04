@@ -1,2 +1,2 @@
-# SmartInternz-GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro
-GeminiDecode is a Streamlit app that uses Google’s Gemini Pro to extract, translate, and analyze multilingual document images, providing insights for coding, business, and research while breaking language barriers.
+## SmartInternz-GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro
+Welcome to GeminiDecode, a cutting-edge Streamlit application that revolutionizes document processing across languages! This app extracts, translates, and analyzes multilingual document images in real time, leveraging the power of Google's Gemini Pro.
