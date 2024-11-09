@@ -1,4 +1,4 @@
-# SmartInternz-GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro
+# GeminiDecode-Multilanguage-Document-Extraction-by-Gemini-Pro
 Welcome to GeminiDecode, a sophisticated Streamlit application that leverages Google’s Gemini Pro API to enable advanced multilingual document processing. This project aims to enhance productivity for developers, business analysts, and researchers by providing seamless document extraction, translation, and analysis.   
 
 # 🌟 Project Overview
